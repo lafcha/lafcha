@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lafcha
-- 👀 I’m interested in web developemnt, of course!
+- 👀 I’m interested in web developement, of course!
 - 🌱 I’m currently learning PHP, JS & so much more !
 - 💞️ I’m looking to collaborate on new webdevelopment projects, all kinds of it!
 - 📫 How to reach me : juste send me a message!
