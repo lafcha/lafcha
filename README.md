@@ -15,7 +15,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently studying at O'Clock!
+- 👨🏽‍💻 I’ve just finished my 6-month training at the O'Clock School!
 - 🌱 I’m currently exploring Symfony and I'm loving it! 
 - 🤔 Even if I thought I'd be more of a front-end devolopper when I started coding, I'm definitively a back-end developper in the end!
 - 💬 Ask me about anything, I love to answer!
