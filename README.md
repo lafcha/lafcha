@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Lafcha, or *Charlotte* IRL!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Lafcha, or *Charlotte LAFARGE* IRL!</h3>
 
 <a href="www.linkedin.com/in/charlotte-lafarge">
 👀 Take a look on my LinkedIn Profile 
