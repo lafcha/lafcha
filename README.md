@@ -15,8 +15,8 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’ve just finished my 6-month training at the O'Clock School!
-- 🌱 I’m currently exploring Symfony and I'm loving it! 
+- 👨🏽‍💻 I am currently studing at the Campus In the Alps in Valence.
+- 🌱 I'm learning HTML, CSS, Bootstrap, PHP, Laravel, Java and algorithms.
 - 🤔 Even if I thought I'd be more of a front-end devolopper when I started coding, I'm definitively a back-end developper in the end!
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [charlotte.bronsard@gmail.com](mailto:charlotte.bronsard@gmail.com).
