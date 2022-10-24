@@ -6,10 +6,10 @@
 ### <div align="center">I'm Charlotte, a future developer!</div>  
   
 
-- 🔭 I’m currently working on [My husband future website](https://github.com/lafcha/hugo-psy.git)  
+- 🔭 I’m currently working on PHP/Symfony projects
   
 
-- 🌱 I’m currently learning PHP, POO and Laravel  
+- 🌱 I’m currently learning PHP, Laravel, Python, Java
   
 
 - ⚡ Fun fact: I love cats 😻  
@@ -91,10 +91,9 @@
 <br/>  
 <br/>  
 
-## The music I listen to when I code
-<div align="center">
- <img src="https://spotify-github-profile.vercel.app/api/view?uid=217r2jchnral7ck45tj6mr4za&cover_image=true&theme=default&bar_color=2b512a&bar_color_cover=true" />
-</div>  
+
+## My DailyDev Card
+<a href="https://app.daily.dev/Lafcha"><img src="https://api.daily.dev/devcards/226d087a169f4c758f2ceb20e79b4d2d.png?r=3u4" width="400" alt="Charlotte LAFARGE's Dev Card"/></a>
 
 
 <div align="center">
