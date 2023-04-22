@@ -6,10 +6,10 @@
 ### <div align="center">I'm Charlotte, a future developer!</div>  
   
 
-- 🔭 I’m currently working on PHP/Symfony projects
+- 🔭 I’m currently working on React projects
   
 
-- 🌱 I’m currently learning PHP, Laravel, Python, Java
+- 🌱 I’m currently learning React, Javascript
   
 
 - ⚡ Fun fact: I love cats 😻  
