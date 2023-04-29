@@ -1,10 +1,8 @@
 <div align="center">
-<image src="https://user-images.githubusercontent.com/68339132/235307203-e777e3f7-8a4f-48ca-a220-975b29a4c6b9.png">
+<image src="https://user-images.githubusercontent.com/68339132/235307309-3cca0d76-5139-4f72-a3bd-8c87dda9bdd1.png">
 </div>  
   
-
-### <div align="center">I'm Charlotte, a web developer!</div>  
-  
+ 
 
 - 🔭 I’m currently working on React projects
   
